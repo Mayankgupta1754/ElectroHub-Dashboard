@@ -49,7 +49,7 @@ The business required a centralized analytics solution to:
 ---
 
 ## Dataset Overview
-
+<img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard/image14.png">
 The project uses four interconnected datasets.
 
 ### Customer Table
