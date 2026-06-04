@@ -280,7 +280,7 @@ This enables dynamic period-over-period comparison without affecting the primary
 ## Dashboard Preview
 
 ### Executive Dashboard
-(Add Screenshot)
+Dashboard/image11.png
 
 ### Product Performance Dashboard
 (Add Screenshot)
