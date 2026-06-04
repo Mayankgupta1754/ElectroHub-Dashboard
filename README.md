@@ -280,13 +280,13 @@ This enables dynamic period-over-period comparison without affecting the primary
 ## Dashboard Preview
 
 ### Executive Dashboard
-Dashboard/image11.png
+<img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard/image11.png">
 
 ### Product Performance Dashboard
-(Add Screenshot)
+<img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard/image12.png">
 
 ### Sales Trend Dashboard
-(Add Screenshot)
+<img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard/image13.png">
 
 ---
 
